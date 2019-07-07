@@ -1,2 +1,2 @@
-# my_webpage
-it's a simple webpage which can be used as a traveling page 
+# my_webpag
+I am creating asimple webpage which can be used as a traveling page 
